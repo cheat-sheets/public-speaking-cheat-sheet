@@ -1,5 +1,21 @@
 # Public Speaking Cheat Sheet
 
+### Table of Content
+
+- [Rhetoric](#rhetoric)
+  - [Rhetorical Canons](#rhetorical-canons)
+    - [Invention](#invention)
+    - [Arrangement](#arrangement)
+    - [Style](#style)
+    - [Memory](#memory)
+    - [Delivery](#delivery)
+- [Persuasion](#persuasion)
+  - [Ethos](#ethos)
+- [Stock Issues](#stock-issues)
+- [Fallacies](#fallacies)
+- [Resources](#resources)
+
+
 ## Rhetoric
 
 **Rhetoric** is the art of discourse, wherein a writer or speaker strives to inform, persuade or motivate particular 
@@ -146,5 +162,75 @@ trait (passion, commitment, etc.)
 Including lots of examples can help show depth of experience. Avoiding jargon can help show depth of understanding. 
 - **eunoia** / **goodwill** - showing that you have the audience’s interests in mind. 
 You have good will towards the audience.
+
+## Stock Issues
+
+Good persuasion responds to questions of fact, policy, and value:
+
+- **Fact** propositions: what is/isn’t, what happened or didn’t, etc.
+- **Value** propositions: what is good/bad, moral/immoral, etc.
+- **Policy** propositions: what we should do/avoid, good/bad procedures, etc.
+
+Most issues are a mixture of these different types of claims.
+
+**Status quo** - the existing state of affairs. What is currently in place?
+
+**Burden of proof** - obligation to prove your assertion.
+
+In law, the prosecution has the burden of proof and the defense has presumption. 
+In argumentation, "those who assert should prove". 
+If you are arguing for a change to the status quo, you have the burden to prove that action is better than inaction.
+
+Legal standards for burden of proof (USA):
+
+- Some evidence
+- Reasonable indications
+- Reasonable suspicion
+- Reasonable to believe
+- Probable cause for arrest
+- Some credible evidence
+- Substantial evidence
+- Preponderance of the evidence (balance of probabilities) - the standard required in most civil cases 
+- Clear and convincing evidence
+- Beyond reasonable doubt - typically applies in criminal proceedings
+
+When thinking about advocating/opposing change, there are three key questions:
+
+- Is there a need for change?
+- What the plan to solve the need?
+- Does the plan meet the need?
+
+**Stock issues** address these questions:
+
+- **Ill**: Is the problem you're addressing. It’s the need for a change.
+  - Quantitative ill: How big is the problem? Statistics and facts generally help show this.
+  - Qualitative ill: How bad is the problem? Stories and testimony generally help show this.
+- **Blame**: Why does the ill persist? Blame is a blockage. What’s preventing the status quo from solving the problem?
+  - Structural inherency: A formal block, like an existing law.
+  - Attitudinal inherency: An informal block, like negative attitudes or simply a lack of awareness.
+  - Gap inherency: Existing cures are insufficient
+- **Cure**: What should we do? The cure is the plan you’re proposing.
+  - Solvency: Does the plan solve the need?
+  - Workability: Is the plan feasible?
+  - Everything hinges on the cure. Ill and blame build to it; consequences flow from it.
+- **Consequences**: What happens if we act? Consequences are what happens if/when we adopt the cure.
+  - Material consequences: How much does this cost?
+  - Social consequences: How might this change attitudes or interactions?
+
+If you are arguing for change, you should prove most stock issues.
+Ignorance or apathy sides with the status quo. Meaning, if someone doesn't know about the issue, you have the 
+burden to prove it to them. If you are arguing against change, you can disprove all the stock issues, 
+but you may not have to.
+
+## Fallacies
+
+## Resources
+
+- Introduction to Public Speaking https://www.coursera.org/learn/public-speaking
+- Public Speaking: Speaking to Inform https://www.coursera.org/learn/inform-speech
+- Public Speaking: Speaking to Persuade https://www.coursera.org/learn/persuade-speech
+- Public Speaking: Speaking to Motivate https://www.coursera.org/learn/speak-to-inspire-ceremonial-motivational-speeches
+
+
 
 
