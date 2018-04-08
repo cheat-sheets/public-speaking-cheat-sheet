@@ -105,5 +105,46 @@ confrontation, adaptation, and release.
 - Gestures: have controlled gestures, use gestures to augment and emphasize the content.
 - Movement: be committed; your movement shouldn’t look unconscious; rather, more purposefully.
             
+## Presentation Slides
+
+- Don’t use your slides as your notes.
+- Don’t confuse your slides as a form of publishing.
+- Keep slides simple.
+- Limit the text and elements.
+- Focus on one or two concepts per slide.
+- Break up dense slides into multiple slides.
+
+## Persuasion
+
+**Persuasion** - the deliberate attempt to affect audience beliefs and behaviors through communication. This definition 
+implies that audiences have free choice to accept or reject our persuasion. Persuasion thus differs from force and 
+coercion. Influence is a broader category that includes factors that lie beyond our deliberate control.
+
+Good persuasion requires careful planning:
+
+- Begin by assessing the board. Where is movement possible? Where is it blocked?
+- Identify audience predispositions. Where and how do audience members agree or disagree?
+- Identify your target audience. Who do you most want to reach?
+- Identify realistic speech objectives. Given their predispositions, how do you want that target audience to move?
+
+Aristotle’s three proofs:
+
+- **Logos** - an appeal to logic, or something that seems logical.
+- **Pathos** - an appeal to emotions.
+- **Ethos** - an appeal to credibility.
+
+### Ethos
+
+**Ethos** is the performance of your credibility on an issue. Ethos is a long-term strategy aimed at making you 
+generally trustworthy. 
+
+Ethos involves:
+
+- **arete** / **excellence** - when speakers demonstrate their arete/excellence/dynamism they exemplify a valued 
+trait (passion, commitment, etc.)
+- **phronesis** / **practical wisdom** - allows an experienced person to strike upon the right course of action.
+Including lots of examples can help show depth of experience. Avoiding jargon can help show depth of understanding. 
+- **eunoia** / **goodwill** - showing that you have the audience’s interests in mind. 
+You have good will towards the audience.
 
 
