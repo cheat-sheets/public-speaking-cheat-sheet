@@ -13,6 +13,7 @@
   - [Ethos](#ethos)
 - [Stock Issues](#stock-issues)
 - [Fallacies](#fallacies)
+- [Moving Style](#moving-style)
 - [Resources](#resources)
 
 
@@ -223,6 +224,30 @@ burden to prove it to them. If you are arguing against change, you can disprove 
 but you may not have to.
 
 ## Fallacies
+
+**Fallacies** are deficient moves in argumentative discourse. 
+
+- Something is missing
+  - **Begging the question**: the speaker supports a claim with the claim itself. The argument lacks external support.
+  - **Hasty generalization**: the speaker lacks sufficient support for a claim.
+  - **False dilemma**: the speaker forces a complex situation down to only two options. 
+  The argument lacks a sense for all the reasonable courses of action.
+
+- Flawed causality
+  - **Slippery slope**: the speaker identifies a chain of events, but doesn’t prove the individual steps.
+  - **Post hoc**: the speaker mistakes a chronological sequence of events for a causal one.
+
+- Bad evidence
+  - **Ad populum**: a claim rests only on popular support.
+  - **Non sequiter**: unclear relationship between claim and support.
+
+- Bad response
+  - **Straw argument**: attacking an argument not really held by the opponent.
+  - **Red herring**: raising a distracting argument.
+
+## Moving Style
+
+
 
 ## Resources
 
