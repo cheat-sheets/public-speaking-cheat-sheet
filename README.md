@@ -247,7 +247,76 @@ but you may not have to.
 
 ## Moving Style
 
+- Stylistic devices are equations for eloquence.
+- Weave style into your speech; avoid jarring shifts from low to high style.
+- Select some of your key words to build into your stylistic devices.
 
+Stylistic devices:
+
+- Sound repetition. 
+  - **Assonance**: The repetition of vowel sounds
+  - **Consonance**: The repetition of consonant sounds
+  - **Alliteration**: The repetition of initial consonant sounds.
+  - **Asyndeton**: Omitting normally occurring conjunctions.
+  - **Polysyndeton**: Inserting extra conjunctions.
+
+- Phrasing repetition.
+  - **Anaphora**: Repetition at the beginning of phrases.
+  - **Epistrophe**: Repetition at the ends of phrases.
+  - **Symploce**: Repetition at the beginning and end of phrases.
+  - Style often shows up in threes. The first use begins the patter, the second use establishes the pattern, the third use resolves the pattern.
+
+- Writing applause lines.
+  - **Anadiplosis**: Repeating a word at the end of one phrase at the beginning of the next.
+  - **Antithesis**: The pairing of contrasting words or ideas.
+  - **Antimetabole**: A pattern for antithesis, where the phases are structured: A B B A
+  - **Maxim**: A short, memorable phrase.
+  
+### Example Motivational Speeches
+
+- "We shall fight on the beaches", Churchill, 1940, **anaphora**.
+https://en.wikipedia.org/wiki/We_shall_fight_on_the_beaches
+  - We shall go on to the end. 
+  - We shall fight in France, 
+  - we shall fight on the seas and oceans, 
+  - we shall fight with growing confidence and growing strength in the air, 
+  - we shall defend our island, whatever the cost may be. 
+  - We shall fight on the beaches, 
+  - we shall fight on the landing grounds, 
+  - we shall fight in the fields and in the streets, 
+  - we shall fight in the hills; 
+  - we shall never surrender.
+  
+- This was their finest hour, Churchill, 1940, **maxim**.
+https://en.wikipedia.org/wiki/This_was_their_finest_hour
+  - But if we fail, then the whole world, including the United States, 
+  including all that we have known and cared for, 
+  will sink into the abyss of a new dark age made more sinister, 
+  and perhaps more protracted, by the lights of perverted science. 
+  Let us therefore brace ourselves to our duties, and so bear ourselves, 
+  that if the British Empire and its Commonwealth last for a thousand years, 
+  men will still say, "This was their finest hour."
+  
+- It takes a village, Hilary Clinton, 1996, **anaphora**.
+http://www.americanrhetoric.com/speeches/hillaryclintontakesavillage.htm
+  - to raise a happy, healthy, and hopeful child, 
+  - it takes a family. 
+  - It takes teachers. 
+  - It takes clergy.
+  - It takes business people. 
+  - It takes community leaders. 
+  - It takes those who protect our health and safety. 
+  - It takes all of us. 
+  - Yes, it takes a village. 
+  - And it takes a President.
+  
+- Address at the Public Memorial Service for Robert F. Kennedy, Edward M. Kennedy, 1968, **anaphora**.
+http://www.americanrhetoric.com/speeches/ekennedytributetorfk.html
+  - My brother need not be idealized, or enlarged in death beyond what he was in life; 
+  - to be remembered simply as a good and decent man, 
+  - who saw wrong and tried to right it, 
+  - saw suffering and tried to heal it, 
+  - saw war and tried to stop it.  
 
 ## Resources
 
