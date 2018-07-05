@@ -1,6 +1,6 @@
 # Public Speaking Cheat Sheet
 
-### Table of Content
+### Table of Contents
 
 - [Rhetoric](#rhetoric)
   - [Rhetorical Canons](#rhetorical-canons)
