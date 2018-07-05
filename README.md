@@ -235,6 +235,7 @@ but you may not have to.
 
 - Flawed causality
   - **Slippery slope**: the speaker identifies a chain of events, but doesn’t prove the individual steps.
+  Also beware of **Slippery slopy fallacy fallacy** https://twitter.com/vitalikbuterin/status/717230770105028608
   - **Post hoc**: the speaker mistakes a chronological sequence of events for a causal one.
 
 - Bad evidence
