@@ -319,6 +319,17 @@ http://www.americanrhetoric.com/speeches/ekennedytributetorfk.html
   - saw suffering and tried to heal it, 
   - saw war and tried to stop it.  
 
+- John F. Kennedy, Special Message to the Congress on Education
+
+Education is the keystone in the arch of freedom and progress. Nothing has contributed more to the enlargement 
+of this nation's strength and opportunities than our traditional system of free, universal elementary and secondary 
+education, coupled with widespread availability of college education.
+
+For the individual, the doors to the schoolhouse, to the library and to the college lead to the richest treasures 
+of our open society: to the power of knowledge - to the training and skills necessary for productive employment - 
+to the wisdom, the ideals, and the culture which enrich life - and to the creative, self-disciplined understanding 
+of society needed for good citizenship in today's changing and challenging world.
+
 ## Resources
 
 - Introduction to Public Speaking https://www.coursera.org/learn/public-speaking
